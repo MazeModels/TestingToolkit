@@ -1,6 +1,6 @@
 {
   "name": "com.mazemodels.testingtoolkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Testing Toolkit",
   "description": "A lightweight package containing reusable test utilities and wrappers for common testing libraries designed for integration across multiple Unity projects and packages.",
   "hideInEditor": false,
