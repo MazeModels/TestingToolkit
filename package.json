@@ -1,0 +1,29 @@
+{
+  "name": "com.mazemodels.testingtoolkit",
+  "version": "0.0.1",
+  "displayName": "Testing Toolkit",
+  "description": "A lightweight package containing reusable test utilities and wrappers for common testing libraries designed for integration across multiple Unity projects and packages.",
+  "hideInEditor": false,
+  "type": "library",
+  "author": {
+    "name": "MazeModels",
+    "email": "stefano.pittalis@hotmail.it",
+    "url": "https://github.com/MazeModels"
+  },
+  "license": "MIT",
+  "homepage": "https://openupm.com/packages/com.mazemodels.testingtoolkit/",
+  "bugs": {
+    "url": "https://github.com/MazeModels/TestingToolkit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MazeModels/TestingToolkit.git"
+  },
+  "keywords": [
+    "statechart",
+    "state-machine",
+    "unity",
+    "fsm",
+    "game-architecture"
+  ]
+}
